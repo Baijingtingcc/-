@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import vant from './plugins/vant'
-import router from './router'
+import router from './routers'
 import '@/styles/reset.css'
 Vue.use(vant)
 Vue.config.productionTip = false

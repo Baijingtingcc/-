@@ -1,7 +1,6 @@
 <template>
   <div>
-    你好vue
-    <van-button type="danger">危险按钮</van-button>
+    <router-view></router-view>
   </div>
 </template>
 
