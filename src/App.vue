@@ -5,12 +5,7 @@
 </template>
 
 <script>
-import axios from '@/utils/request'
-export default {
-  created() {
-    console.log(axios.defaults)
-  }
-}
+export default {}
 </script>
 
 <style></style>
