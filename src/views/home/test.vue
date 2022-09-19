@@ -1,12 +1,8 @@
 <template>
   <div class="container">
-<<<<<<< HEAD
     主分支冲突
-    冲突
-=======
-    制造冲突7777888888
-    制造冲突
->>>>>>> test
+    主分支冲突
+    主分支冲突
   </div>
 </template>
 
