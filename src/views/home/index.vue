@@ -21,6 +21,7 @@
   </div>
 </template>
 
+
 <script>
 import { getPlaylist, getNewSongs } from '@/api'
 import songItem from '@/components/songItem.vue'
