@@ -1,7 +1,7 @@
 <template>
   <div class="container">
-    制造冲突7777888888
-    制造冲突
+    分支冲突
+    分支冲突
   </div>
 </template>
 
